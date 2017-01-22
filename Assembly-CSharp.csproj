@@ -49,8 +49,11 @@
      <Compile Include="Assets\Scripts\Menu.cs" />
      <Compile Include="Assets\Scripts\PC.cs" />
      <Compile Include="Assets\Scripts\PC_Cam.cs" />
+     <Compile Include="Assets\Scripts\ShellCount.cs" />
+     <Compile Include="Assets\Scripts\Shells.cs" />
      <Compile Include="Assets\Scripts\Triggers.cs" />
      <Compile Include="Assets\Scripts\Wave.cs" />
+     <Compile Include="Assets\Scripts\birds.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.7.2/Standalone/UnityEngine.UI.dll</HintPath>
  </Reference>
